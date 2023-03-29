@@ -1,2 +1,3 @@
-# yadl
-Yet another Deep Learning Framework
+# YADL
+### Yet Another Deep Learning Framework !
+Inspired by [Micrograd](https://github.com/karpathy/micrograd) by [Andrej karpathy](https://karpathy.aiv), and [Tiny Grad](https://github.com/geohot/tinygrad) by George Hotz, I've decided to build a another minimalistic deep learing from sractch for educational purposes. I'll mainly focus on building a tiny version of PyTorch that is able to train the latest SOTA architectures. I'm planning to implement advanced parts like training on accelerators, support distributed training and much more ...
